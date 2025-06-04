@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hello, I'm Sumit Jamod</h1>
 
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+REST+APIs;Database+Design+%7C+Security+%7C+JWT;Clean+Architecture+%7C+Microservices" alt="Typing SVG" />
 </p>
+
+---
 
 <p align="center">
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding illustration" />
