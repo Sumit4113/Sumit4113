@@ -17,7 +17,7 @@
 
 - 🔧 Backend Developer with a focus on **Java + Spring Boot**
 - 💾 Skilled in building **REST APIs**, **JWT Auth**, and **SQL/NoSQL Databases**
-- ⚙️ Tools I use: `Spring Security`, `Hibernate`, `Docker`, `PostgreSQL`, `MySQL`
+- ⚙️ Tools I use: `Spring Security`, `Hibernate`, `Docker`, `JPA`, `MySQL`
 - 🌱 Currently learning **Spring Cloud**, **Kubernetes**, and **DevOps practices**
 - 📫 Reach me at: **jdsumit01@gmail.com**
 
@@ -65,20 +65,12 @@
 <h3 align="center">📌 Pinned Projects</h3>
 
 <p align="center">
-  <a href="https://smartcontactmanager-7rtz.onrender.com" target="_blank">
-    <img src="https://images.unsplash.com/photo-1601039642446-e3bfe40cbf69?auto=format&fit=crop&w=600&q=60" width="300" alt="Smart Contact Manager" style="margin-right: 20px;" />
-  </a>
-  <a href="https://online-book-store-2j9i.onrender.com" target="_blank">
-    <img src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=60" width="300" alt="Online Bookstore" />
-  </a>
-</p>
-
-<p align="center">
   <b>📝 Smart Contact Manager</b> — A web app to manage personal/professional contacts with role-based login.
+   <a href="https://smartcontactmanager-7rtz.onrender.com" target="_blank">Click Here</a>
   <br/>
   <b>📚 Online Bookstore</b> — Browse and read categorized books, with admin upload & Firebase integration.
+   <a href="https://online-book-store-2j9i.onrender.com" target="_blank">Click Here</a>
 </p>
-
 
 ---
 
