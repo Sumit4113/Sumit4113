@@ -65,11 +65,11 @@
 <h3 align="center">📌 Pinned Projects</h3>
 
 <p align="center">
-  <b>📝 Smart Contact Manager</b> — A web app to manage personal/professional contacts with role-based login.
-   <a href="https://smartcontactmanager-7rtz.onrender.com" target="_blank">Click Here</a>
+  <b>📝 Contact Manager</b> — A web app to manage personal/professional contacts with role-based login.
+   <a href="https://contactmanager-b8sa.onrender.com" target="_blank">Click Here</a>
   <br/>
-  <b>📚 Online Bookstore</b> — Browse and read categorized books, with admin upload & Firebase integration.
-   <a href="https://online-book-store-2j9i.onrender.com" target="_blank">Click Here</a>
+  <b>📚 Online Bookstore</b> — Browse and read categorized books, with admin upload & SpringBoot integration. 
+   <a href="https://github.com/Sumit4113/Online-Book-Store" target="_blank">Click Here</a>
 </p>
 
 ---
