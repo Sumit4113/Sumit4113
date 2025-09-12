@@ -18,7 +18,7 @@
 - 🔧 Backend Developer with a focus on **Java + Spring Boot**
 - 💾 Skilled in building **REST APIs**, **JWT Auth**, and **SQL/NoSQL Databases**
 - ⚙️ Tools I use: `Spring Security`, `Hibernate`, `Docker`, `JPA`, `MySQL`
-- 🌱 Currently learning **Spring Cloud**, **Kubernetes**, and **DevOps practices**
+- 🌱 Currently learning **Spring Cloud**, **React**, **JS**, **WebSockets**, and **Aws**
 - 📫 Reach me at: **jdsumit01@gmail.com**
 
 ---
