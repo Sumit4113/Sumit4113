@@ -15,11 +15,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔧 Backend Developer with a focus on **Java + Spring Boot**
-- 💾 Skilled in building **REST APIs**, **JWT Auth**, and **SQL/NoSQL Databases**
-- ⚙️ Tools I use: `Spring Security`, `Hibernate`, `Docker`, `JPA`, `MySQL`
+- 🔧 Java Full Stack Developer with mostly on **Backend Using Spring Boot**
+- 💾 Skilled in building **REST APIs**, **Spring Security With JWT Auth**, **Frontend Using ReactJs**, **Database Connection Using Mysql**
+- ⚙️ Tools I use: `PostMan`, `GitHub`, `Docker`, `Linux`, `EclipsIDE` 
 - 🌱 Currently learning **Spring Cloud**, **React**, **JS**, **WebSockets**, and **Aws**
-- 📫 Reach me at: **jdsumit01@gmail.com**
+- 📫 Reach me at: Gmail id :**jdsumit01@gmail.com**, Linkdin id: **https://www.linkedin.com/in/sumitjamod/**
 
 ---
 
@@ -66,7 +66,7 @@
 
 <p align="center">
   <b>📝 Contact Manager</b> — A web app to manage personal/professional contacts with role-based login.
-   <a href="https://contactmanager-b8sa.onrender.com" target="_blank">Click Here</a>
+   <a href="[https://glamorous-marigold-sumit-devop-6ec5f3c7.koyeb.app/]" target="_blank">Click Here</a>
   <br/>
   <b>📚 Online Bookstore</b> — Browse and read categorized books, with admin upload & SpringBoot integration. 
    <a href="https://github.com/Sumit4113/Online-Book-Store" target="_blank">Click Here</a>
