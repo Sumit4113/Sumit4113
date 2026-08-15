@@ -19,7 +19,7 @@
 - 💾 Skilled in building **REST APIs**, **Spring Security With JWT Auth**, **Frontend Using ReactJs**, **Database Connection Using Mysql**
 - ⚙️ Tools I use: `PostMan`, `GitHub`, `Docker`, `Linux`, `EclipsIDE` 
 - 🌱 Currently learning **Spring Cloud**, **React**, **JS**, **WebSockets**, and **Aws**
-- 📫 Reach me at: Gmail id :**jdsumit01@gmail.com**, Linkdin id: **https://www.linkedin.com/in/sumitjamod/**
+- 📫 Reach me at: Gmail id :**sumitjamod4113@gmail.com**, Linkdin id: **https://www.linkedin.com/in/sumitjamod/**
 
 ---
 
@@ -66,10 +66,10 @@
 
 <p align="center">
   <b>📝 Contact Manager</b> — A web app to manage personal/professional contacts with role-based login.
-   <a href="https://glamorous-marigold-sumit-devop-6ec5f3c7.koyeb.app/" target="_blank">Click Here</a>
+   <a href="https://quintessential-corny-sumit-devop-165f5ec9.koyeb.app/" target="_blank">Click Here</a>
   <br/>
   <b>📚 Online Bookstore</b> — Browse and read categorized books, with admin upload & SpringBoot integration. 
-   <a href="https://github.com/Sumit4113/Online-Book-Store" target="_blank">Click Here</a>
+   <a href="https://online-book-store-frontend-ten.vercel.app/" target="_blank">Click Here</a>
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:jdsumit01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sumitjamod4113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sumitjamod/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://sumit4113.github.io/My-Portfolio/" target="_black"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
